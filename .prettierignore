@@ -1,0 +1,11 @@
+package-lock.json
+yarn.lock
+node_modules
+# Ignore artifacts:
+build
+tsconfig.json
+tsconfig.base.json
+tsconfig.node.json
+Dockerfile
+public
+vite.config.ts
